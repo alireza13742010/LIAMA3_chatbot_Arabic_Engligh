@@ -1,5 +1,10 @@
 # LIAMA3_chatbot_Arabic_Engligh
-This repository is for developing the chatbot on health care question and answer
+This repository is for developing the chatbot on health care question and answer.
+In this respository the LIAMA3 with 7 bilions paramters is trained using an RTX3090ti on the available datasets on the Hugging face.
+
+The number of used questions and answers for training the model is 20 milions.
+
+
 
 
 # Requirements 
