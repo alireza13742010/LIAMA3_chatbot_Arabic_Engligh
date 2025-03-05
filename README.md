@@ -39,5 +39,3 @@ The number of used questions and answers for training the model is 20 milions. T
 # Answer
 ![image](https://github.com/user-attachments/assets/33fbf3dd-c6db-42d8-8125-d193870026c7)
 
-# Warning 
-In order to run the code you requier the access to the model weights. This access will be provided by the owener of the code please contact us : https://avidmech.ir/contact-us/
